@@ -1,0 +1,4 @@
+Al realizar una petición GET a la ruta http://localhost:3000/reportes después de haber enviado datos mediante el método POST, 
+el servidor responde devolviendo un array de objetos JSON que contiene el listado completo de los reportes almacenados temporalmente en la variable de memoria del servidor.
+Ejemplo de respuesta obtenida:[{"id": 1,"tipo": "Infraestructura","descripcion": "Daño en alumbrado público"}]
+Si el servidor se detiene o se reinicia, este array volverá a vaciarse ya que los datos están guardados en la memoria RAM y no en una base de datos persistente.
