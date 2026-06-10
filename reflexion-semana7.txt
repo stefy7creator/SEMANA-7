@@ -1,0 +1,8 @@
+La implementación de plataformas tecnológicas que permiten registrar y consultar incidencias comunitarias es un pilar clave para
+el desarrollo de las ciudades inteligentes y la participación ciudadana. Estas herramientas centralizan la información en tiempo real, 
+lo que permite a las comunidades no solo reportar un problema, sino también hacer un seguimiento transparente de las solicitudes compartidas por otros vecinos. 
+Al tener acceso público a los reportes, se fomenta una cultura de veeduría y control social que presiona positivamente a 
+las entidades encargadas para que brinden soluciones eficaces.
+Además, el uso de sistemas digitales reduce la burocracia tradicional, evitando filas o llamadas innecesarias para tramitar una queja. 
+En última instancia, estas aplicaciones fortalecen el tejido social, empoderan a los ciudadanos y convierten los datos recopilados en un recurso valioso para 
+la toma de decisiones y la priorización de recursos públicos en las zonas más afectadas.
